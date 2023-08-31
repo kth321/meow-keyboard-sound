@@ -1,0 +1,3 @@
+([('meow_sound3',
+   '/Users/taehyungkoo/Desktop/programming/meow/dist/meow_sound3',
+   'EXECUTABLE')],)
